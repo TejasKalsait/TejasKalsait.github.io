@@ -368,7 +368,7 @@ input, select, textarea {
 	}
 
 	.align-right {
-		text-align: right;
+		text-align: justify;
 	}
 
 /* Row */
@@ -2774,7 +2774,7 @@ input, select, textarea {
 
 			ul.pagination li:last-child {
 				width: calc(50% - 2px);
-				text-align: right;
+				text-align: justify;
 				padding-left: 0.325em;
 			}
 
@@ -3219,7 +3219,7 @@ input, select, textarea {
 					top: 0;
 					left: 0;
 					text-indent: 0;
-					text-align: right;
+					text-align: justify;
 					margin-left: 0;
 					padding-right: 1.25em;
 				}
