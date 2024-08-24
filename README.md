@@ -1,19 +1,19 @@
 # My Portfolio
+
 ## Email ID: kalsaittejas10@gmail.com
-## Feel free to connect on LinkedIn  at https://www.linkedin.com/in/tkalsait/
-## GitHub: https://github.com/TejasKalsait
-## Portfolio: https://tejaskalsait.github.io/
+## LinkedIn: https://www.linkedin.com/in/tkalsait/
 
-# Looking for full-time opportunities in the US
-# Summary
-I am a skilled and ambitious graduate student pursuing an MS in Robotics from The State University of New York, Buffalo. I am actively seeking full-time opportunities in the exciting domains of Machine Learning, Computer Vision, Software Development, and Robotics.
+### About Me
 
-My extensive experience includes completing various cutting-edge projects in these fields, such as Image Generation using Deep Convolutional **_Generative Adversarial Network_**, **_Bird’s Eye View for an Autonomous vehicle_**, **_Deployed DeepDream image generator_** as a Python app using Streamlit, **_Path planning algorithm for autonomous vehicles_**, **_Camera Calibration_** using the checkerboard method, **_Object Detection using the YOLO algorithm_**, Face Recognition using Siamese Neural Network, Visual Odometry using Stereo Vision, and many others. Additionally, I have built several **_Deep Reinforcement Learning_** models using **_PyTorch_** to solve complex environments such as Poker, Car Racing, and more. In addition to my numerous successful projects, I have furthered my knowledge by completing over 25 additional courses. At present, I am delving into the intricacies of **_Generative AI_** and **_Transformer Networks_**, fueled by my passion for staying ahead of the curve.
+#### Currently working as a Generative AI Read team analyst @Google (via Vaco) and ex Autonomous Driving Researcher @SUNY Buffalo
 
-Having devoted five years to mastering my skills in these dynamic domains and implementing numerous successful projects, I am now ready to make a substantial impact on a grander scale. Working full-time at a firm represents the ideal opportunity for me to showcase my talents and achieve even greater success.
+As a Generative AI Red Team Analyst at Google (via Vaco), I'm validating and testing the Gemini model and other AI products to ensure their safety and reliability. Previously, I worked as an Autonomous Driving Research Assistant at the State University of New York, where I developed cutting-edge digital twins that replicated real-world scenarios. With a Master's degree in Robotics and Computer Science, I bring a unique combination of theoretical knowledge and hands-on experience in machine learning, deep learning, and artificial intelligence, which has enabled me to launch two successful generative AI products in the past year. I'm excited to collaborate on innovative projects and explore new ideas, so feel free to reach out if you'd like to build something awesome together, have a job offer for me, or just chat about the latest developments in AI!
+
+Have a project? Want to hire me? or just looking to reach out?
+Let's Work Together!
+Feel free to reach out if you just want to connect or see if we can build something amazing together.
 
 Thank you.
 
 *Tejas Kalsait*
-
-*The State University of New York at Buffalo.*
+*Google via Vaco*
