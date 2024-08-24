@@ -309,7 +309,7 @@ small {
 .logo {
 	width: 40px;
 	height: 40px;
-	border-radius: 50%;
+	border-radius: 30%;
 }
 
 /* add img in nav*/
@@ -408,12 +408,21 @@ small {
 	filter: drop-shadow(0 0 0.75rem var(--secondary-clr));
 }
 
-.hero-btn-container {
+.hero-btn-container-resume {
 
 	margin: auto;
 	display: flex;
   	max-width: 40%;
 	margin-top: 30px;
+	display: flex;
+	justify-content: center;
+}
+
+.hero-btn-container-contact {
+
+	margin: auto;
+	display: flex;
+  	max-width: 40%;
 	display: flex;
 	justify-content: center;
 }
