@@ -1,4 +1,5 @@
 # My Portfolio
+Designed by Sakshi Singh (https://github.com/sakshisingh0598)
 
 ## Email ID: kalsaittejas10@gmail.com
 ## LinkedIn: https://www.linkedin.com/in/tkalsait/
